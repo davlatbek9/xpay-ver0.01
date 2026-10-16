@@ -1,0 +1,6 @@
+{
+  "name": "XPAY - Moliyaviy Boshqaruv & Biznes Platformasi",
+  "description": "XPAY - Biznes va shaxsiy xarajatlarni avtomatik hisob-kitob qiluvchi, virtual kartali va aqlli AI tahlilchili innovatsion moliya platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
